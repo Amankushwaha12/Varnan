@@ -1,0 +1,6 @@
+.background {
+  width: 120vw;
+  height: 100vh;
+  background-image: url('./assets/Hero/BG.svg');
+  background-position: -110px -50px;
+}

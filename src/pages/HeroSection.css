@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+
+.island-moments-regular {
+  font-family: "Island Moments", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container{
+  padding-top: 1rem;
+  max-width: 100%;
+  padding-left: 12rem;
+  padding-right: 12rem;
+}
